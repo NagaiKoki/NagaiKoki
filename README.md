@@ -5,9 +5,11 @@ Software Engineer @nagoya
 ### Skill
 
 - React
+- React Native
 - Redux
 - Typescript
-- Ruby, Rails
+- Ruby
+- Rails
 
 ### Blog
 
