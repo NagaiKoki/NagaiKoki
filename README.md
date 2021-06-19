@@ -1,6 +1,6 @@
 ### Introduction
 
-Software Engineer @nagoya
+Software Engineer
 
 ### Skill
 
