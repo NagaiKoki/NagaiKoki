@@ -12,7 +12,7 @@ Software Engineer @nagoya
 - Rails
 
 ### Blog
-- [2021/06/19 個人ブログを始めました。](https://kokinagai.com/)
+- [2021/06/19 個人ブログを始めました。](https://kokinagai.com/posts/yGa3n4b3m5G7k1oGWzz0)
 - [2021/02/22 React でメモ化によるパフォーマンス改善を狙う](https://tech.stmn.co.jp/entry/2021/02/22/140028)
 - [2021/01/15 Rails+React 環境下における、Hot Module Replacement の導入](https://tech.stmn.co.jp/entry/2021/01/15/161056)
 - [2020/10/29 useSelector と useDispatch で container component を排除する](https://tech.stmn.co.jp/entry/2020/10/29/161055)
