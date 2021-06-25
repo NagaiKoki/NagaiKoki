@@ -12,6 +12,7 @@ Software Engineer
 - Rails
 
 ### Blog
+- [2021/06/24 RecoilのuseRecoilStateで作られる更新関数の内部実装を見てみる](https://kokinagai.com/posts/NM23UpksGTqFYKH1Pca0)
 - [2021/06/19 個人ブログを始めました。](https://kokinagai.com/posts/yGa3n4b3m5G7k1oGWzz0)
 - [2021/02/22 React でメモ化によるパフォーマンス改善を狙う](https://tech.stmn.co.jp/entry/2021/02/22/140028)
 - [2021/01/15 Rails+React 環境下における、Hot Module Replacement の導入](https://tech.stmn.co.jp/entry/2021/01/15/161056)
