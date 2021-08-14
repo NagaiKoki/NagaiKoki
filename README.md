@@ -12,6 +12,7 @@ Software Engineer
 - Rails
 
 ### Blog
+- [2021/08/14 なぜメモ化を行う必要があるのか？メモ化の意義について考える。](https://zenn.dev/koki_tech/articles/4d7aeaa9908040)
 - [2021/08/01 hygenで雛形Reactコンポーネントを作成する](https://zenn.dev/koki_tech/articles/532c9929ac1cc5)
 - [2021/06/24 RecoilのuseRecoilStateで作られる更新関数の内部実装を見てみる](https://kokinagai.com/posts/NM23UpksGTqFYKH1Pca0)
 - [2021/06/19 個人ブログを始めました。](https://kokinagai.com/posts/yGa3n4b3m5G7k1oGWzz0)
