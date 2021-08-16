@@ -5,11 +5,9 @@ Software Engineer
 ### Skill
 
 - React
-- React Native
-- Redux
+- Next.js
 - Typescript
-- Ruby
-- Rails
+- Ruby on Rails
 
 ### Blog
 - [2021/08/14 なぜメモ化を行う必要があるのか？メモ化の意義について考える。](https://zenn.dev/koki_tech/articles/4d7aeaa9908040)
