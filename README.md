@@ -10,6 +10,7 @@ Software Engineer
 - Ruby on Rails
 
 ### Blog
+- [2021/09/03 SOLID原則で考えるReact設計](https://zenn.dev/koki_tech/articles/361bb8f2278764)
 - [2021/08/14 なぜメモ化を行う必要があるのか？メモ化の意義について考える。](https://zenn.dev/koki_tech/articles/4d7aeaa9908040)
 - [2021/08/01 hygenで雛形Reactコンポーネントを作成する](https://zenn.dev/koki_tech/articles/532c9929ac1cc5)
 - [2021/06/24 RecoilのuseRecoilStateで作られる更新関数の内部実装を見てみる](https://kokinagai.com/posts/NM23UpksGTqFYKH1Pca0)
