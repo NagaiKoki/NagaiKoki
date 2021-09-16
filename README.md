@@ -22,6 +22,9 @@ Software Engineer
 - [2020/05/14 redux-saga と仲良くなろう！](https://tech.stmn.co.jp/entry/2020/05/14/143012)
 - [2019/12/27 Ruby で Google Drive にファイルをアップロードする](https://tech.stmn.co.jp/entry/tech/7036)
 
+### 登壇資料
+- [2021/09/15 SWRと状態管理 - ReduxではなくSWRという選択](https://speakerdeck.com/0906koki/swrtozhuang-tai-guan-li)
+
 ### Product
 - [koky blog](https://kokinagai.com)
 - [筋トレ共有アプリ マスクル](https://apps.apple.com/us/app/%E3%83%9E%E3%82%B9%E3%82%AF%E3%83%AB/id1509482384)
