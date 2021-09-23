@@ -1,6 +1,6 @@
 ### Introduction
 
-Software Engineer
+Frontend Developer
 
 ### Skill
 
