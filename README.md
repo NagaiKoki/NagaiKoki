@@ -1,15 +1,9 @@
 ### Introduction
 
-Frontend Developer
-
-### Skill
-
-- React
-- Next.js
-- Typescript
-- Ruby on Rails
+Web Frontend Developer
 
 ### Blog
+- [2021/11/17 Chrome Devtools による フロントエンドパフォーマンスの計測](https://zenn.dev/koki_tech/articles/9deb70d0a9befb) 
 - [2021/10/10 Next.jsでSentryにソースマップを送信する](https://zenn.dev/koki_tech/articles/fd4afb8ac5c863)
 - [2021/09/03 SOLID原則で考えるReact設計](https://zenn.dev/koki_tech/articles/361bb8f2278764)
 - [2021/08/14 なぜメモ化を行う必要があるのか？メモ化の意義について考える。](https://zenn.dev/koki_tech/articles/4d7aeaa9908040)
