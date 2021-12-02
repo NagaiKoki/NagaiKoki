@@ -3,6 +3,7 @@
 Web Frontend Developer
 
 ### Blog
+- [2021/12/01 FANTS ダッシュボードを支えるフロントエンド技術](https://tech.stmn.co.jp/entry/2021/12/01/191318)
 - [2021/11/17 Chrome Devtools による フロントエンドパフォーマンスの計測](https://zenn.dev/koki_tech/articles/9deb70d0a9befb) 
 - [2021/10/10 Next.jsでSentryにソースマップを送信する](https://zenn.dev/koki_tech/articles/fd4afb8ac5c863)
 - [2021/09/03 SOLID原則で考えるReact設計](https://zenn.dev/koki_tech/articles/361bb8f2278764)
