@@ -3,6 +3,7 @@
 Web Frontend Developer
 
 ### Blog
+- [フロントエンドのテスト戦略について考える](https://zenn.dev/koki_tech/articles/a96e58695540a7)
 - [2021/02/12 Framer Motion で始める React アニメーション実装](https://zenn.dev/koki_tech/articles/70d6d54e62e108)
 - [2021/12/01 FANTS ダッシュボードを支えるフロントエンド技術](https://tech.stmn.co.jp/entry/2021/12/01/191318)
 - [2021/11/17 Chrome Devtools による フロントエンドパフォーマンスの計測](https://zenn.dev/koki_tech/articles/9deb70d0a9befb) 
