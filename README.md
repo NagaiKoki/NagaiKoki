@@ -3,6 +3,7 @@
 Web Frontend Developer
 
 ### Blog
+- [2022/06/17 JSON:APIフォーマットのTSの型を、デシリアライズした型に変換する型パズルの実装](https://tech.stmn.co.jp/entry/2022/06/17/184034)
 - [2022/04/20 フロントエンドのテスト戦略について考える](https://zenn.dev/koki_tech/articles/a96e58695540a7)
 - [2022/02/12 Framer Motion で始める React アニメーション実装](https://zenn.dev/koki_tech/articles/70d6d54e62e108)
 - [2021/12/01 FANTS ダッシュボードを支えるフロントエンド技術](https://tech.stmn.co.jp/entry/2021/12/01/191318)
@@ -21,7 +22,7 @@ Web Frontend Developer
 - [2019/12/27 Ruby で Google Drive にファイルをアップロードする](https://tech.stmn.co.jp/entry/tech/7036)
 
 ### 登壇資料
-- [2021/06/03  Reactアプリケーションのテスト戦略](https://speakerdeck.com/0906koki/reactapurikesiyonfalsetesutozhan-lue)
+- [2022/06/03  Reactアプリケーションのテスト戦略](https://speakerdeck.com/0906koki/reactapurikesiyonfalsetesutozhan-lue)
 - [2021/09/15 SWRと状態管理 - ReduxではなくSWRという選択](https://speakerdeck.com/0906koki/swrtozhuang-tai-guan-li)
 
 ### Product
