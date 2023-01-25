@@ -1,6 +1,6 @@
 ### Introduction
 
-Web Frontend Developer
+Web Developer
 
 ### Blog
 - [2022/11/22 React NativeとExpoを活用したネイティブビルド不要のE2Eテストの導入](https://tech.hello.ai/entry/2022/11/22/121019)
