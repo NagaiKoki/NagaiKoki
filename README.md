@@ -13,7 +13,7 @@ Web Developer
 - [2021/09/03 SOLID原則で考えるReact設計](https://zenn.dev/koki_tech/articles/361bb8f2278764)
 - [2021/08/14 なぜメモ化を行う必要があるのか？メモ化の意義について考える。](https://zenn.dev/koki_tech/articles/4d7aeaa9908040)
 - [2021/08/01 hygenで雛形Reactコンポーネントを作成する](https://zenn.dev/koki_tech/articles/532c9929ac1cc5)
-- [2021/06/24 RecoilのuseRecoilStateで作られる更新関数の内部実装を見てみる](https://kokinagai.com/posts/NM23UpksGTqFYKH1Pca0)
+- [2021/06/24 RecoilのuseRecoilStateで作られる更新関数の内部実装を見てみる]([https://kokinagai.com/posts/5)
 - [2021/06/19 個人ブログを始めました。](https://kokinagai.com/posts/yGa3n4b3m5G7k1oGWzz0)
 - [2021/02/22 React でメモ化によるパフォーマンス改善を狙う](https://tech.stmn.co.jp/entry/2021/02/22/140028)
 - [2021/01/15 Rails+React 環境下における、Hot Module Replacement の導入](https://tech.stmn.co.jp/entry/2021/01/15/161056)
