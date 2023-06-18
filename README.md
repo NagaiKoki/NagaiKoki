@@ -4,6 +4,7 @@ Web Developer
 
 ### Work
 * [月額定額の受託開発サービス 「EverCat」](https://www.ever-cat.com/)
+* [AIがフィットネスメニューを作成してくれるアプリ「AutoFit」の開発、運営](https://apps.apple.com/jp/app/auto-fit/id6449654556)
 
 ### Blog
 - [2022/11/22 React NativeとExpoを活用したネイティブビルド不要のE2Eテストの導入](https://tech.hello.ai/entry/2022/11/22/121019)
