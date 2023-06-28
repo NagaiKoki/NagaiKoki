@@ -3,7 +3,6 @@
 Web Developer
 
 ### Work
-* [月額定額の受託開発サービス 「EverCat」](https://www.ever-cat.com/)
 * [AIがフィットネスメニューを作成してくれるアプリ「AutoFit」の開発、運営](https://apps.apple.com/jp/app/auto-fit/id6449654556)
 
 ### Blog
