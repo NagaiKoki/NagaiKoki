@@ -3,6 +3,7 @@
 Web Developer
 
 ### Blog
+- [2025/12/17 Solid.jsはどのようにDOMを更新しているのか？](https://zenn.dev/koki_tech/articles/45221786de62e2)
 - [2024/12/19 TVerのWebフロントチーム内製化への道のりとこれから](https://techblog.tver.co.jp/entry/2024/12/19/102612)
 - [2024/10/30 How We Rebuilt the ChatGPT & YouTube Summary Extensions](https://medium.com/glasp-tech-blog/how-we-rewrite-chatgpt-youtube-summary-extensions-575752d68771)
 - [2022/11/22 React NativeとExpoを活用したネイティブビルド不要のE2Eテストの導入](https://tech.hello.ai/entry/2022/11/22/121019)
@@ -27,3 +28,5 @@ Web Developer
 ### 登壇資料
 - [2022/06/03  Reactアプリケーションのテスト戦略](https://speakerdeck.com/0906koki/reactapurikesiyonfalsetesutozhan-lue)
 - [2021/09/15 SWRと状態管理 - ReduxではなくSWRという選択](https://speakerdeck.com/0906koki/swrtozhuang-tai-guan-li)
+- [2025/11/16 JSConf JP 2025 TVerのWeb内製化 - 開発スピードと品質を両立させるまでの道のり](https://speakerdeck.com/techtver/tvernowebnei-zhi-hua-kai-fa-supidotopin-zhi-woliang-li-saserumadenodao-nori)
+
