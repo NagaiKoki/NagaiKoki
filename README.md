@@ -26,7 +26,8 @@ Web Developer
 - [2019/12/27 Ruby で Google Drive にファイルをアップロードする](https://tech.stmn.co.jp/entry/tech/7036)
 
 ### 登壇資料
+- [2026/03/27 TVer Web-based TVのリアーキテクチャ](https://speakerdeck.com/techtver/tver-web-based-tvnoriakitekutiya)
+- [2025/11/16 JSConf JP 2025 TVerのWeb内製化 - 開発スピードと品質を両立させるまでの道のり](https://speakerdeck.com/techtver/tvernowebnei-zhi-hua-kai-fa-supidotopin-zhi-woliang-li-saserumadenodao-nori)
 - [2022/06/03  Reactアプリケーションのテスト戦略](https://speakerdeck.com/0906koki/reactapurikesiyonfalsetesutozhan-lue)
 - [2021/09/15 SWRと状態管理 - ReduxではなくSWRという選択](https://speakerdeck.com/0906koki/swrtozhuang-tai-guan-li)
-- [2025/11/16 JSConf JP 2025 TVerのWeb内製化 - 開発スピードと品質を両立させるまでの道のり](https://speakerdeck.com/techtver/tvernowebnei-zhi-hua-kai-fa-supidotopin-zhi-woliang-li-saserumadenodao-nori)
 
